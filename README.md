@@ -9,7 +9,7 @@ This project uses Tableau to analyze the leading causes of death in Latin Americ
 > *Click on the link below to explore the interactive visualization on Tableau Public: [View on Tableau Public]([https://public.tableau.com/app/profile/your-name/viz/your-project](https://public.tableau.com/app/profile/meliza.perneth/viz/CausesofDeath-Pareto/SignificantFewCauses-Pareto))*
 
 ## Dataset
-The analysis is based on data from Kaggle)
+The analysis is based on data from Kaggle
 
 ## How to Reproduce
 1. Download the Tableau packaged workbook: [visualization.twbx](Causes of Death.twbx).
